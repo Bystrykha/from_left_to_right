@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/from_left_to_right/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stack
+-
+regex
+-
+
